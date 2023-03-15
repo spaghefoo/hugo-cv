@@ -1,0 +1,73 @@
+Dir: ltr
+
+BasicInfo:
+  FirstName: Acheraiou
+  LastName: Sofiane
+  Photo: img/photo sofiane.png
+  Contacts:
+  - Icon: fas fa-envelope
+    Info: sofiane@acheraiou.fr
+    Link: false
+  - Icon: fas fa-map-marker
+    Link: false
+    Icon: fab fa-linkedin-in
+    Info: linkedin.com/in/abd-acheraiou/
+    Link: true
+  - Icon: fas fa-globe
+    Info: acheraiou.fr
+    Link: true
+
+Profile: 19 ans, passionné d'informatique depuis mon enfance etc...
+Experience:
+  - Employer: Consort Group
+    Positions:
+    - Title: Interim Developpeur PHP
+      Date: 2022
+      Details:
+        - Refonte d'une interface permettant aux utilisateurs de prendre rendez vous avec un technicien IMAC
+  - Employer: Consort Group
+    Positions:
+    - Title: Stage BTS Seconde année Consort Group
+      Date: 2023
+      Details:
+        - Utilisation de Power BI afin de recolter des données sur les appareils encore en service dans differentes bases(AD, Outil ITSM, Antivirus...)
+        - Deploiement d'un serveur Git dans un environnement de test.
+        - Gestion d'une API REST afin d'obtenir les items encore actifs.
+
+  - Employer: Consort Group
+    Positions:
+    - Title: Stage BTS première année Consort Group
+      Date: 2022
+      Details:
+       - Refonte complète d'une interface permettant aux utilisateurs de prendre rendez vous avec un technicien IMAC
+       - Mise à jour vers Bootstrap 5(vs Bootstrap 3).
+       - Ajout de plusieurs techniciens et de leurs horaires
+       - Modification des mails envoyés aux utilisateurs(système de template)
+       - Plus de flexibilité
+       - Correction de bugs
+       - Gestion d'une base donnée MySQL.
+
+Education:
+  - Degree: BTS SIO
+    NameofSchool: Lycée Gaston Berger
+    Location: Ronchin, France
+    Date: Sep 2021 - Sep 2023
+    RelevantCourses:
+      - Cybersecurité
+      - Programmation en Java(POO) et PHP
+      - Gestion de bases SQL/NoSQL
+      - Création de MCD
+      - Diagramme de classes
+
+Skills:
+  - HTML | CSS
+  - Java
+  - PHP(Symfony)
+  - Python(Flask, Django)
+  - NoSQL | SQL
+  - Linux | Git
+  - C
+
+
+
+
