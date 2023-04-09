@@ -16,6 +16,9 @@ BasicInfo:
   - Icon: fas fa-globe
     Info: acheraiou.fr
     Link: true
+  - Icon: fas fa-phone
+    Info: 0631279135
+    Link: false
 
 Profile: 19 ans, passionné d'informatique depuis mon enfance, Je suis actuellement en seconde année de BTS SIO option SLAM(Solutions Logiciels et Applications Métiers)
 Experience:
@@ -58,6 +61,17 @@ Education:
       - Gestion de bases SQL/NoSQL
       - Création de MCD
       - Diagramme de classes
+  - Degree: Baccalauréat STI2D option SIN
+    NameofSchool: Lycée Gustave Eiffel
+    Location: Armentières, France
+    Date: Sep 2017 - Sep 2021
+    RelevantCourses:
+      - Maths
+      - Programmation
+      - Conception de pièces
+      - Apprentissage du binaire
+
+
 
 Skills:
   - HTML | CSS
@@ -68,6 +82,12 @@ Skills:
   - Linux | Git
   - C
 
-
+Liking:
+  - Jeux vidéos
+  - Séries / Series d'animation
+  - Romans et BD
+  - Programmation
+  - Films
+  
 
 
