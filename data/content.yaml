@@ -51,6 +51,17 @@ Experience:
        - Gestion d'une base donnée MySQL.
 
 Education:
+  - Degree: 3ème année en Bachelor Architecture des Logiciels
+    NameofSchool: ESGI Lille
+    Location: Lille, France
+    Date: Octobre 2023 - Octobre 2024
+    RelevantCourses:
+      -Python
+      -Node.js
+      -Logique Algorithmique
+      -C
+      -Ecriture Tests unitaires.
+    
   - Degree: BTS SIO
     NameofSchool: Lycée Gaston Berger
     Location: Ronchin, France
