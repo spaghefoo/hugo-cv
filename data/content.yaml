@@ -24,19 +24,18 @@ Profile: 19 ans, passionné d'informatique depuis mon enfance, Je suis actuellem
 Experience:
   - Employer: Consort Group
     Positions:
-    - Title: Interim Developpeur PHP
-      Date: 2022
-      Details:
-        - Refonte d'une interface permettant aux utilisateurs de prendre rendez vous avec un technicien IMAC
-  - Employer: Consort Group
-    Positions:
     - Title: Stage BTS Seconde année Consort Group
       Date: 2023
       Details:
         - Utilisation de Power BI afin de recolter des données sur les appareils encore en service dans differentes bases(AD, Outil ITSM, Antivirus...)
         - Deploiement d'un serveur Git dans un environnement de test.
         - Gestion d'une API REST afin d'obtenir les items encore actifs.
-
+  - Employer: Consort Group
+    Positions:
+    - Title: Interim Developpeur PHP
+      Date: 2022
+      Details:
+        - Refonte d'une interface permettant aux utilisateurs de prendre rendez vous avec un technicien IMAC
   - Employer: Consort Group
     Positions:
     - Title: Stage BTS première année Consort Group
@@ -56,16 +55,15 @@ Education:
     Location: Lille, France
     Date: Octobre 2023 - Octobre 2024
     RelevantCourses:
-      -Python
-      -Node.js
-      -Logique Algorithmique
-      -C
-      -Ecriture Tests unitaires.
-    
+      - Python
+      - Node
+      - Logique Algorithmique
+      - C
+      - Ecriture Tests unitaires
   - Degree: BTS SIO
     NameofSchool: Lycée Gaston Berger
     Location: Ronchin, France
-    Date: Sep 2021 - Sep 2023
+    Date: Septembre 2021 - Juillet 2023
     RelevantCourses:
       - Cybersecurité
       - Programmation en Java(POO) et PHP
@@ -75,7 +73,7 @@ Education:
   - Degree: Baccalauréat STI2D option SIN
     NameofSchool: Lycée Gustave Eiffel
     Location: Armentières, France
-    Date: Sep 2017 - Sep 2021
+    Date: Septembre 2017 - Septembre 2021
     RelevantCourses:
       - Maths
       - Programmation
