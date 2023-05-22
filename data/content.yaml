@@ -55,32 +55,24 @@ Education:
     Location: Lille, France
     Date: Octobre 2023 - Octobre 2024
     RelevantCourses:
-      - Python
-      - Node
-      - Logique Algorithmique
-      - C
-      - Ecriture Tests unitaires
-  - Degree: BTS SIO
+      - Linux
+      - Programmation en Python, C
+      - Framework Angular et Node.js
+      - Methode agile(Scrum).
+  - Degree: BTS SIO option SLAM
     NameofSchool: Lycée Gaston Berger
     Location: Ronchin, France
     Date: Septembre 2021 - Juillet 2023
     RelevantCourses:
-      - Cybersecurité
-      - Programmation en Java(POO) et PHP
-      - Gestion de bases SQL/NoSQL
-      - Création de MCD
-      - Diagramme de classes
+      - Cybersecurité 
+      - Programmation en Java, PHP et Python
+      - Conception de MCD et de diagrammes de classes
+      - Bases de données SQL/NoSQL.
   - Degree: Baccalauréat STI2D option SIN
     NameofSchool: Lycée Gustave Eiffel
     Location: Armentières, France
     Date: Septembre 2017 - Septembre 2021
     RelevantCourses:
-      - Maths
-      - Programmation
-      - Conception de pièces
-      - Apprentissage du binaire
-
-
 
 Skills:
   - HTML | CSS
